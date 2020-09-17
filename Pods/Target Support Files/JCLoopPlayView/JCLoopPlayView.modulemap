@@ -1,0 +1,6 @@
+framework module JCLoopPlayView {
+  umbrella header "JCLoopPlayView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.0.0)
+  - JCLoopPlayView (0.0.4):
+    - Kingfisher (~> 4.7.0)
+  - Kingfisher (4.7.0)
+  - SDWebImage (5.7.3):
+    - SDWebImage/Core (= 5.7.3)
+  - SDWebImage/Core (5.7.3)
+  - SwiftyJSON (5.0.0)
+  - WechatOpenSDK (1.8.7.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.0)
+  - JCLoopPlayView
+  - SDWebImage
+  - SwiftyJSON
+  - WechatOpenSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - JCLoopPlayView
+    - Kingfisher
+    - SDWebImage
+    - SwiftyJSON
+    - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  JCLoopPlayView: b092b4098df382e813354adf0ac289a8b6673a9e
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  SDWebImage: 97351f6582ceca541ea294ba66a1fcb342a331c2
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  WechatOpenSDK: 6a4d1436c15b3b5fe2a0bd383f3046010186da44
+
+PODFILE CHECKSUM: 25d9427f55a4354216d4aacb699ed74466197607
+
+COCOAPODS: 1.10.0.beta.2
